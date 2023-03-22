@@ -1,0 +1,72 @@
+a{
+    text-decoration: none;
+    background-color: blueviolet;
+    color: black;
+    width: 200px;
+    height: 20px;
+    margin: 50px;
+    display: inline-block;
+    padding: 15px 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+a:hover{
+    background-color: cornflowerblue;
+    font-size: 30px;
+}
+img{
+    width: 250px;
+    margin: 10px 50px;
+    border: 3px solid white;
+    box-shadow: 10px 10px 5px gray;
+}
+body{
+    background-image: url("fon.jfif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 100px;
+    background-attachment: fixed;
+}
+
+div{
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 20px;
+    max-width: 600px;
+    min-width: 500px;
+    margin: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+
+}
+
+.fl{
+    float: left;
+}
+p{
+    text-align: justify;
+}
+.fl2{
+    float: right;
+    background-color: white;
+    width: 60px;
+    font-size: 30px;
+}
+.fl1{
+    padding: 20px;
+    position: relative;
+    top: -1760px;
+    left: 1000px;
+    background-color: rgba(255, 255, 255, 0.3);
+
+}
+.fl6{
+    float: left;
+}
+.cto{
+    font-size: 24px;
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 510px;
+}
